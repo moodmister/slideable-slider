@@ -29,3 +29,13 @@ body {
 img {
   max-height: 100%;
 }
+
+.slider-content{
+  margin: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10vw;
+  color: #fff;
+  background: #00000078;
+}
